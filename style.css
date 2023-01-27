@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-image: url('https://images.hdqwalls.com/download/power-lines-moon-anime-quite-night-4k-pb-1280x800.jpg');
+    ;
+}
+nav ul li{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size:22px;
+}
+.som{
+    color: rgb(255, 255, 255);
+    padding: 50px 20px;
+    position: absolute;
+    font-size: 25px;
+}
+
+#x{ position: absolute;
+    padding:2px 2px;
+    margin: 1px 5ch 0px 50px;
+}
+.z{
+    height:20vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6))
+    background-size:cover;
+    background-position: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding-top:30px ;
+    padding-left:10px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px 20px;
+
+}
+#heading{
+    color: rgb(255, 255, 255); margin-left:22px; padding: 75px 15px 20px;
+    font-size: 30px;
+}
+.wd{
+    color: rgb(43, 223, 187);
+    font-size: 30px;
+    display: flex;
+}
+#wd{
+    margin:20px;
+   
+    margin-right: 80vh;
+    color: rgb(255, 255, 255);
+    padding:60px 20px 64px;
+    font-size: 25px;
+}
+.b{
+    color: aliceblue;
+    font-size: 23px;
+}
+#b{
+    margin-left: 29px ;
+    margin-top: 2px;
+        border: 0ch;
+}
+
+#l {
+    border:0px solid rgb(0, 0, 0);
+    background: #ffffff;
+    color: rgb(12, 10, 10);
+    padding:5px;
+    font-size: 1.5rem;
+    position: flex;
+    border-radius: 0.8rem;
+}
